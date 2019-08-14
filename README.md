@@ -1,2 +1,2 @@
 # clicky
-Just a click counting program.
+Click counting program created at Google Computer Science Summer Institute 2018
